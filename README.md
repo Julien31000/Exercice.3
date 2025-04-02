@@ -1,2 +1,1 @@
-# Exercice.3
-Exercice 3 du module Git
+Le site que vous allez découvrir est magnifique
